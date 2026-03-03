@@ -1,0 +1,2 @@
+global_planner_sim
+-DCATKIN_DEVEL_PREFIX=/home/aswin/project_ws/devel -DCMAKE_INSTALL_PREFIX=/home/aswin/project_ws/install -G Unix Makefiles
